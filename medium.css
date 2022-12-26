@@ -1,0 +1,51 @@
+/* Genel biçim */
+
+.medium-font {
+    font-family: 'Times New Roman', Times, serif;
+}
+.medium-color {
+    background-color: #FFC017;
+}
+/* HR */
+.hr-bottom {
+    border-bottom: 1px solid black;
+}
+.hr-bottom-gray {
+    border-bottom: 1px solid #80808059;
+}
+
+/* Navbar Logo */
+
+.logo {
+    font-size:1.7em;
+}
+.medium-logo-align {
+    position: relative;
+    bottom:6px;
+}
+
+/* Second Content Custom Button */
+.btn-custom {
+    border-radius: 20px;
+    padding: 5px 5px;
+    background-color: rgba(128, 128, 128, 0.112);
+    color: #0000006f;
+    transition: .5s;
+}
+.btn-custom:hover {
+    text-decoration: none;
+    background-color: rgb(200, 199, 199);
+    color: #0000006f;
+}
+.text {
+    font-size: 17px;
+}
+.secondbtn {
+    font-size: 11px;
+    color: rgba(0, 0, 0, 0.437);
+    font-weight: bold;
+}
+.secondbtn:hover {
+    color: rgba(0, 0, 0, 0.437);
+    text-decoration: none;
+}
